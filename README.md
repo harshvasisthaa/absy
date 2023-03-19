@@ -1,7 +1,7 @@
 # absy
 a notificaion app for Salesforce developed by ABSYZ Inc.
 
-[Download Setup File](https://github.com/harshvasisthaa/absy/raw/f7f26a62f9d0a1d09bb7c40351614ab37559fafe/absy_setup.exe)
+[Download Setup File v1.8](https://github.com/harshvasisthaa/absy/raw/66ca7f23e4915dd33aa2e422ed1095fa824fd8de/absy_setup_1.8.exe)
 
 
 ## Salesforce Installation
